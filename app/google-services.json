@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38301604393",
+    "project_id": "estate-x-62500",
+    "storage_bucket": "estate-x-62500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38301604393:android:e5c3927c5758d01eaeda38",
+        "android_client_info": {
+          "package_name": "com.paso_group.estate_x"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38301604393-fg6mho3ak0bcj2d3j0clm0e1lftp6osj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWfNDL50uqlkL9TDGtJWKNA99uMqWaPWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38301604393-fg6mho3ak0bcj2d3j0clm0e1lftp6osj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
