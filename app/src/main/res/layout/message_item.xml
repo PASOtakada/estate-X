@@ -18,7 +18,8 @@
         android:layout_weight="1"
         android:textAppearance="?android:textAppearanceLarge"
         tools:text="comment"
-        android:id="@+id/text1"/>
+        android:id="@+id/text1"
+        android:autoLink="web"/>
 
     <!-- Goodで追加ここから-->
     <Button android:id="@+id/button1"
